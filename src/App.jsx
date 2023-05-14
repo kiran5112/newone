@@ -22,7 +22,7 @@ function App() {
   return (
     <div>
       <Ecommers />
-      
+      <ClowdApp/>
     </div>
   )
 }
