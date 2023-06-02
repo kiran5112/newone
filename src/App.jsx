@@ -13,7 +13,7 @@ import Tipcl from './Tipcl';
 import Web from './PROJECTS/Web';
 import Cart from './Cart';
 import Flex from './PROJECTS/Flex';
-import Ecommers from './PROJECTS/Ecommers';
+// import Ecommers from './PROJECTS/Ecommers';
 
 
 
@@ -21,7 +21,7 @@ import Ecommers from './PROJECTS/Ecommers';
 function App() {
   return (
     <div>
-      <Ecommers />
+     
       <ClowdApp/>
     </div>
   )
